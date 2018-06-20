@@ -26,7 +26,7 @@ export class CockpitComponent implements OnInit {
  //     type: 'blueprint',
  //     name: this.newServerName,
  //     content: this.newServerContent
-    });
+ //   });
   }
   }
 
